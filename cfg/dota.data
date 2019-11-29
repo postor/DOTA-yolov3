@@ -1,0 +1,5 @@
+classes = 16
+train = train.txt  
+valid = test.txt  
+names = dota.names  
+backup = backup/
