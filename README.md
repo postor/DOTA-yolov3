@@ -105,5 +105,4 @@ python test.py --image test.png --config cfg/dota-yolov3-416.cfg --weights cfg/b
 
 百度云 链接: https://pan.baidu.com/s/1V6fxrUpHLhukiJ-vT0F0pQ 提取码: pfq6
 
-google drive: https://drive.google.com/file/d/1ek8-f-1dq_YUSoQvd3KhVlpu8_76BhZO/view?usp=sharing
-https://drive.google.com/file/d/1h-_z2_vaaS_JpgOjUrqqK3jXUj2ok8SF/view?usp=sharing
+google drive: https://drive.google.com/drive/folders/1Y-W2npeaqflfO8IUA7gx9PzmesaSl9rY?usp=sharing
