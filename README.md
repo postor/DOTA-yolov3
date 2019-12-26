@@ -1,6 +1,6 @@
 # DOTA database training with yolo | 基于DOTA数据集的yolo训练
 
-[result example](./output.jpg)
+![result example](./output.jpg)
 
 ## clone this repo | 克隆此仓库
 
