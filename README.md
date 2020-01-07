@@ -93,6 +93,8 @@ config cfg files refer https://medium.com/@manivannan_data/how-to-train-yolov3-t
 
 ## predict | 预测
 
+为了方便运行，这里用 opnencv做检测，要高性能还是用 darknent binding | Here I prepared opencv for easy set up, you can use darknet bindings for better performance
+
 ```
 # tiny
 python test.py --image test.png --config cfg/dota-yolov3-tiny.cfg --weights cfg/backup/dota-yolov3-tiny_final.weights --classes cfg/dota.names
